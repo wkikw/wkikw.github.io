@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>vmvare 无法打开内核设备</title>
+      <link href="/2022/10/31/vmvare-question/"/>
+      <url>/2022/10/31/vmvare-question/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h2><p>无法打开内核设备“.\VMCIDev\VMX”: 操作成功完成。是否在安装 VMware Workstation 后重新引导?<br>模块“DevicePowerOn”启动失败。<br>未能启动虚拟机。<br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-question/1.jpg"></p><h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><h3 id="打开虚拟机目录"><a href="#打开虚拟机目录" class="headerlink" title="打开虚拟机目录"></a>打开虚拟机目录</h3><p>用记事本打开<code>.vmx</code>文件(找到你的虚拟机名称)<br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-question/2.jpg"></p><h3 id="找到vmci0-present"><a href="#找到vmci0-present" class="headerlink" title="找到vmci0.present"></a>找到<code>vmci0.present</code></h3><p>将值修改为<code>FALSE</code>,原先是<code>TRUE</code><br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-question/3.jpg"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vmci0.present = &quot;FALSE&quot;</span><br></pre></td></tr></table></figure><p>改完就可以正常打开了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> vmvare </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vmvare </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Ubuntu 下提交代码到 github</title>
       <link href="/2022/10/31/git-push/"/>
       <url>/2022/10/31/git-push/</url>
