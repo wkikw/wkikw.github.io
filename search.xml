@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>vmvare 虚拟机安装win10</title>
+      <link href="/2022/10/31/vmvare-win10/"/>
+      <url>/2022/10/31/vmvare-win10/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>下载<code>windows</code><br>首先准备好win10镜像，纯净版推荐到msdn下载<br><a href="https://msdn.itellyou.cn/">MSDN, 我告诉你 - 做一个安静的工具站</a><br>将下载地址复制到迅雷就可以高速下载，建议镜像放到合适的位置，避免误删影响虚拟机运行<br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/1.png"></p><p>下面开始打开虚拟机，新建虚拟机<br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/2.png"></p><p>自定义<br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/3.png"><br>默认下一步,你的虚拟机版本是多少就是多少,这里我的是16<br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/4.png"></p><p><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/5.png"><br>选择稍后安装操作系统</p><p>因为装的是 win10 这里选windows 如果是镜像32位的就选32 我的是64位<br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/6.png"></p><p>虚拟机名称可自己设置，由于安装虚拟机文件较多，建议新创建个文件夹用来放虚拟机文件，我这里建的是win10文件夹<br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/7.png"></p><p><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/22.png"><br>内存至少2G<br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/23.png"><br>其他基本都默认</p><p><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/8.png"></p><p> 依旧下一步<br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/11.png"><br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/12.png"><br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/13.png"><br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/14.png"><br><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/15.png"></p><p><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/16.png"><br> 自定义硬件</p><p><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/17.png"></p><p> 安装步骤，依次找到刚才下载的镜像，打开</p><p><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/18.png"></p><p> 然后点击完成即可</p><p><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/19.png"></p><p>按任意键安装</p><p><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/20.png"></p><p> 这时候就可以正常启动了</p><p><img src= "/img/loading.gif" data-lazy-src="/2022/10/31/vmvare-win10/21.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> vmvare </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vmvare </tag>
+            
+            <tag> win10 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>vmvare 无法打开内核设备</title>
       <link href="/2022/10/31/vmvare-question/"/>
       <url>/2022/10/31/vmvare-question/</url>
