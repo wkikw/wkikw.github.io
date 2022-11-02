@@ -8,7 +8,7 @@
       <link href="/2022/11/02/openwrt-amend/"/>
       <url>/2022/11/02/openwrt-amend/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="修改默认主题"><a href="#修改默认主题" class="headerlink" title="修改默认主题"></a>修改默认主题</h2><p>修改默认主题为 <code>argon</code><br><img src= "/image/loading.gif" data-lazy-src="/2022/11/02/openwrt-amend/2.jpg"><br>将<code>luci-theme-bootstrap</code>改为 <code>luci-theme-argon</code>即可<br>效果如下<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/02/openwrt-amend/3.jpg"></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="修改默认主题"><a href="#修改默认主题" class="headerlink" title="修改默认主题"></a>修改默认主题</h2><p>修改默认主题为 <code>argon</code><br><img src= "/image/loading.gif" data-lazy-src="/2022/11/02/openwrt-amend/2.jpg"><br>将<code>luci-theme-bootstrap</code>改为 <code>luci-theme-argon</code>即可<br>效果如下<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/02/openwrt-amend/3.jpg"></p><p>我编译的<code>openwrt</code>固件: <a href="https://github.com/DogInNoSense/OpenWrt/releases">https://github.com/DogInNoSense/OpenWrt/releases</a></p>]]></content>
       
       
       <categories>
