@@ -13,9 +13,12 @@ WIDGET = {
         "padding": "10px 10px 10px 10px",
         "shadow": "0",
         "language": "auto",
-        "fixed": "false",
+        "borderRadius": "5",
+        "fixed": "true",
         "vertical": "top",
         "horizontal": "left",
-        "key": "45161a242ca94266909a1f413dfc06e4"
+        "left": "125",
+        "top": "10",
+        "key": "caf9daabef3142d5a0c563bba470a62f"
     }
 }
