@@ -10,12 +10,12 @@
             a_idx = (a_idx + 1) % a.length;
             heart.style.cssText = "position: fixed;left:-100%;"; //给p元素设置样式
 
-            var f = 16, // 字体大小
+            var f = 10, // 字体大小
                 x = event.clientX - f / 2, // 横坐标
                 y = event.clientY - f, // 纵坐标
                 c = randomColor(), // 随机颜色
-                a = 1, // 透明度
-                s = 1.2; // 放大缩小
+                a = 0.9, // 透明度
+                s = 1; // 放大缩小
 
             var timer = setInterval(function() { //添加定时器
                 if (a <= 0) {
