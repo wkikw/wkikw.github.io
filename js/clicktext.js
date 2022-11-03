@@ -14,8 +14,8 @@
                 x = event.clientX - f / 2, // 横坐标
                 y = event.clientY - f, // 纵坐标
                 c = randomColor(), // 随机颜色
-                a = 0.9, // 透明度
-                s = 1; // 放大缩小
+                a = 0.8, // 透明度
+                s = 0.8; // 放大缩小
 
             var timer = setInterval(function() { //添加定时器
                 if (a <= 0) {
