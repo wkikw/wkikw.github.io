@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>hexo 插入本地视频音频</title>
+      <link href="/2022/11/04/video-insert/"/>
+      <url>/2022/11/04/video-insert/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><ol><li>博客中如果要插入本地音频，需要先安装<code>hexo-tag-aplayer</code>，在你的<code>git bash</code>输入<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-tag-aplayer</span><br></pre></td></tr></table></figure></li><li>然后确保你的hexo的配置文件<code>_config.yml</code>里<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">post_asset_folder:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure></li><li>把音频文件放到同名文件夹里，然后在文章插入以下语句<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% aplayer &quot;这世界那么多人&quot; &quot;莫文蔚&quot; &quot;1.flac&quot; &quot;music.jpg&quot; %&#125;</span><br></pre></td></tr></table></figure>        <div id="aplayer-aXQgcjNV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-aXQgcjNV"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "这世界那么多人",              author: "莫文蔚",              url: "1.flac",              pic: "/2022/11/04/video-insert/music.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">4. 插入视频</span><br><span class="line">- 安装插件</span><br></pre></td></tr></table></figure>npm install hexo-tag-dplayer –save<br>&#96;&#96;<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"lang":"zh-cn//语言","screenshot":true,"hotkey":true,"preload":"auto","volume":0.9,"video":{"url":"/2022/11/04/video-insert/1.mp4","pic":"1.jpg"},"danmaku":{"id":"9E2E3368B56CD123BB4","api":"https://api.prprpr.me/dplayer/","token":"tokendemo","maximum":1000,"addition":["['https://api.prprpr.me/dplayer/v3/bilibili?aid=4157142']"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script></li></ol><p>&#96;&#96;&#96;</p><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"theme":"#FADFA3","loop":true,"lang":"zh-cn//语言","screenshot":true,"hotkey":true,"preload":"auto","volume":0.9,"video":{"url":"/2022/11/04/video-insert/1.mp4","pic":"1.jpg"},"danmaku":{"id":"9E2E3368B56CD123BB4","api":"https://api.prprpr.me/dplayer/","token":"tokendemo","maximum":1000,"addition":["['https://api.prprpr.me/dplayer/v3/bilibili?aid=4157142']"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> dplayer </tag>
+            
+            <tag> aplayer </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MarkDown 一些基本样式学习</title>
       <link href="/2022/11/04/markdownstart/"/>
       <url>/2022/11/04/markdownstart/</url>
