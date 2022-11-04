@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>将 JPG 图片格式转成 WEBP 格式提升网页性能</title>
+      <link href="/2022/11/04/imgconvert/"/>
+      <url>/2022/11/04/imgconvert/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><ul><li>图片格式转换网址: <a href="https://www.aconvert.com/">https://www.aconvert.com/</a><br><img src= "/image/loading.gif" data-lazy-src="/2022/11/04/imgconvert/1.jpg"></li></ul><hr><blockquote><p><code>WebP</code>是<code>google</code>推出一种图片格式，它的特点就是支持无损或有损压缩，图像体积很小。<code>JPG</code>图片支持最高级别的压缩，能精确控制压缩比，体积小，对图片的色彩信息保留较好，可以减少图像的传输时间。PNG图片支持无损压缩，这种格式的图片支持透明和半透明，是一种可编辑的图片格式。相比PNG和JPG格式，Webp格式的体积小了很多，相同画质下，无损<code>WebP</code>相比<code>PNG</code>减少<code>26%</code>大小，而有损<code>WebP</code>在相同的<code>SSIM</code>下比<code>JPEG减少25%~34%</code>的大小。所以很多网站会使用<code>Webp</code>格式的图片，这样能够加快图片的加载速度。但<code>Webp</code>格式的图片也存在一定的<code>局限性</code>，当它下载保存到电脑上时，无法直接打开查看，也不能插入到文档中，所以需要对其进行格式转换。<br><code>WebP</code> 和 <code>AVIF</code> 等图片格式的压缩效果通常优于<code> PNG 或 JPEG</code>，因而下载速度更快，消耗的数据流量更少</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> WEBP </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>使用 vercel 进行访客分析</title>
       <link href="/2022/11/03/vercel-audience/"/>
       <url>/2022/11/03/vercel-audience/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><ol><li>首先在<code>vercel</code>项目里找到以下选项<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/5.jpg"><br>点击<code>enable</code><br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/6.jpg"></li><li>下载 <code>@vercel/analytics</code><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install @vercel/analytics</span><br></pre></td></tr></table></figure><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/1.jpg"></li><li><code>butterfly</code> <code>source</code>文件夹下的<code>js</code>文件夹中创建<code>vercel.js</code>,粘贴以下代码<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/3.jpg"><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">window.va = function() &#123;</span><br><span class="line">    (window.vaq = window.vaq || []).push(arguments);</span><br><span class="line">&#125;;</span><br><span class="line">window.va(&#x27;beforeSend&#x27;, (event) =&gt; &#123;</span><br><span class="line">    if (event.url.includes(&#x27;secret&#x27;)) return null;</span><br><span class="line">    return event;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>以上代码在<code>vercel</code>给的步骤2里的链接中<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/7.jpg"><br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/4.jpg"></li><li>引入 <code>js</code>文件<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/8.jpg"><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- &lt;script defer src=&quot;/va/script.js&quot;&gt;&lt;/script&gt;</span><br><span class="line">- &lt;script src=&quot;/js/vercel.js&quot;&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure></li><li><code>hexo cl</code> <code>hexo g</code> <code>hexo d</code>稍等几秒就可以看到有分析数据了,我实验了几次,感觉还挺灵敏的</li></ol>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><ol><li>首先在<code>vercel</code>项目里找到以下选项<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/5.jpg"><br>点击<code>enable</code><br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/6.jpg"></li><li>下载 <code>@vercel/analytics</code><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install @vercel/analytics</span><br></pre></td></tr></table></figure><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/1.jpg"></li><li><code>butterfly</code> <code>source</code>文件夹下的<code>js</code>文件夹中创建<code>vercel.js</code>,粘贴以下代码<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/3.jpg"><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">window.va = function() &#123;</span><br><span class="line">    (window.vaq = window.vaq || []).push(arguments);</span><br><span class="line">&#125;;</span><br><span class="line">window.va(&#x27;beforeSend&#x27;, (event) =&gt; &#123;</span><br><span class="line">    if (event.url.includes(&#x27;secret&#x27;)) return null;</span><br><span class="line">    return event;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>以上代码在<code>vercel</code>给的步骤2里的链接中<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/7.jpg"><br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/4.jpg"></li><li>引入 <code>js</code>文件<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/8.jpg"><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- &lt;script defer src=&quot;/va/script.js&quot;&gt;&lt;/script&gt;</span><br><span class="line">- &lt;script src=&quot;/js/vercel.js&quot;&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure></li><li><code>hexo cl</code> <code>hexo g</code> <code>hexo d</code>稍等几秒就可以看到有分析数据了,我实验了几次,感觉还挺灵敏的<br><img src= "/image/loading.gif" data-lazy-src="/2022/11/03/vercel-audience/9.jpg"></li></ol>]]></content>
       
       
       <categories>
