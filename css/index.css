@@ -1461,6 +1461,13 @@ a {
 a:hover {
   color: #49b1f5;
 }
+#site-title,
+#site-subtitle,
+#site-name,
+#aside-content .author-info__name,
+#aside-content .author-info__description {
+  font-family: google;
+}
 .is-center {
   text-align: center;
 }
@@ -4327,7 +4334,7 @@ _:future,
   position: absolute;
   top: calc(50% - 0.35rem);
   color: #f47466;
-  content: '\f0c1';
+  content: '\f863';
   line-height: 1;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
