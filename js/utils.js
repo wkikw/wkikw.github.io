@@ -1,4 +1,4 @@
-const btf = {
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>const btf = {
   debounce: function (func, wait, immediate) {
     let timeout
     return function () {
@@ -33,7 +33,7 @@ const btf = {
       const remaining = wait - (now - previous)
       context = this
       args = arguments
-      if (remaining <= 0 || remaining > wait) {
+      if (remaining <= 0 || remaining> wait) {
         if (timeout) {
           clearTimeout(timeout)
           timeout = null
@@ -249,3 +249,4 @@ const btf = {
   }
 
 }
+</=>

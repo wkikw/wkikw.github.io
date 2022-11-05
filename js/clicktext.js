@@ -1,4 +1,4 @@
-(function() {
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>(function() {
     var a_idx = 0;
     window.onclick = function(event) {
             var a = new Array("摆烂", "摆烂", "奋斗", "躺平", "努力", "躺平");
@@ -18,26 +18,4 @@
                 s = 0.8; // 放大缩小
 
             var timer = setInterval(function() { //添加定时器
-                if (a <= 0) {
-                    document.body.removeChild(heart);
-                    clearInterval(timer);
-                } else {
-                    heart.style.cssText = "font-size:16px;cursor: default;position: fixed;color:" +
-                        c + ";left:" + x + "px;top:" + y + "px;opacity:" + a + ";transform:scale(" +
-                        s + ");";
-
-                    y--;
-                    a -= 0.016;
-                    s += 0.002;
-                }
-            }, 15)
-
-        }
-        // 随机颜色
-    function randomColor() {
-
-        return "rgb(" + (~~(Math.random() * 255)) + "," + (~~(Math.random() * 255)) + "," + (~~(Math
-            .random() * 255)) + ")";
-
-    }
-}());
+                if (a 
