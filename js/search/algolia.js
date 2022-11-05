@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>window.addEventListener('load', () => {
+window.addEventListener('load', () => {
   const openSearch = () => {
     document.body.style.cssText = 'width: 100%;overflow: hidden'
     document.querySelector('#algolia-search .search-dialog').style.display = 'block'
@@ -102,7 +102,7 @@
             '<hr>' +
             stats +
             '<span class="algolia-logo pull-right">' +
-            '  <img src= "/image/loading.gif" data-lazy-src="/js/search/algolia.j/algolia.svg" alt="Algolia">' +
+            '  <img src="' + GLOBAL_CONFIG.root + 'img/algolia.svg" alt="Algolia" />' +
             '</span>'
           )
         }
