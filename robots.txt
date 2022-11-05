@@ -3,10 +3,10 @@ Allow: /
 Allow: /archives/
 Allow: /tags/
 Allow: /categories/
+Allow: /music/
+Allow: /movies/
+Allow: /link/
 Allow: /about/
-Allow: /guestbook/
-Allow: /others/
-
 
 Disallow: /js/
 Disallow: /css/
