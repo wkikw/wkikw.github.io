@@ -245,14 +245,14 @@
 
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/hexo/</loc>
+    <loc>http://www.lmxyz.xyz/tags/butterfly/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/butterfly/</loc>
+    <loc>http://www.lmxyz.xyz/tags/hexo/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -287,21 +287,7 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/weather/</loc>
-    <lastmod>2022-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.lmxyz.xyz/tags/markdown/</loc>
-    <lastmod>2022-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lmxyz.xyz/tags/WEBP/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -316,6 +302,20 @@
   
   <url>
     <loc>http://www.lmxyz.xyz/tags/vercel/</loc>
+    <lastmod>2022-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/WEBP/</loc>
+    <lastmod>2022-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/weather/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -380,14 +380,14 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/categories/vercel/</loc>
+    <loc>http://www.lmxyz.xyz/categories/speedtest/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/categories/speedtest/</loc>
+    <loc>http://www.lmxyz.xyz/categories/vercel/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
