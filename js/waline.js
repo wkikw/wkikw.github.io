@@ -1,4 +1,4 @@
 Waline.init({
-    el: '#waline',
+    el: '#waline-wrap',
     serverURL: 'https://www.rcixn.shop/',
 });
