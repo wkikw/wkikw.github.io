@@ -1,83 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/25/blog2/</loc>
-    <lastmod>2022-11-05</lastmod>
+    <loc>http://www.lmxyz.xyz/imgconvert/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/21/hello-world/</loc>
-    <lastmod>2022-11-05</lastmod>
+    <loc>http://www.lmxyz.xyz/test/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/11/04/imgconvert/</loc>
-    <lastmod>2022-11-05</lastmod>
+    <loc>http://www.lmxyz.xyz/vmvare-win10/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/11/04/markdownstart/</loc>
-    <lastmod>2022-11-05</lastmod>
+    <loc>http://www.lmxyz.xyz/video-insert/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/11/04/video-insert/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/vercel-speed/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/31/openwrt-compile/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/vmvare-question/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/27/blog6/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/stairspeedtest/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/24/blog1/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/vercel-audience/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/26/blog3/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/openwrt-amend/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/26/blog4/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/openwrt-compile/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/26/blog5/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/markdownstart/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/31/git-push/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/op-setup/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/11/03/hfweather/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/hfweather/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/11/02/openwrt-amend/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/git-push/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/11/01/op-setup/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/hello-world/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/30/stairspeedtest/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/blog6/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/11/03/vercel-audience/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/blog5/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/11/02/vercel-speed/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/blog4/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/31/vmvare-question/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/blog3/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/2022/10/31/vmvare-win10/</loc>
-    <lastmod>2022-11-04</lastmod>
+    <loc>http://www.lmxyz.xyz/blog2/</loc>
+    <lastmod>2022-11-06</lastmod>
+  </url>
+  <url>
+    <loc>http://www.lmxyz.xyz/blog1/</loc>
+    <lastmod>2022-11-06</lastmod>
   </url>
 </urlset> 
