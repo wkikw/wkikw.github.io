@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/openwrt-compile/</loc>
+    <loc>http://www.lmxyz.xyz/openwrt-amend/</loc>
     
     <lastmod>2022-11-06</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/openwrt-amend/</loc>
+    <loc>http://www.lmxyz.xyz/openwrt-compile/</loc>
     
     <lastmod>2022-11-06</lastmod>
     
@@ -354,6 +354,13 @@
   </url>
   
   <url>
+    <loc>http://www.lmxyz.xyz/tags/vmvare/</loc>
+    <lastmod>2022-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.lmxyz.xyz/tags/dplayer/</loc>
     <lastmod>2022-11-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -362,13 +369,6 @@
   
   <url>
     <loc>http://www.lmxyz.xyz/tags/aplayer/</loc>
-    <lastmod>2022-11-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lmxyz.xyz/tags/vmvare/</loc>
     <lastmod>2022-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
