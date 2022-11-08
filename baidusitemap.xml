@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.lmxyz.xyz/openwrt-compile/</loc>
-    <lastmod>2022-11-07</lastmod>
+    <loc>http://www.lmxyz.xyz/blog2/</loc>
+    <lastmod>2022-11-08</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/blog2/</loc>
+    <loc>http://www.lmxyz.xyz/openwrt-compile/</loc>
     <lastmod>2022-11-07</lastmod>
   </url>
   <url>
@@ -29,11 +29,11 @@
     <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/vercel-speed/</loc>
+    <loc>http://www.lmxyz.xyz/vmvare-question/</loc>
     <lastmod>2022-11-06</lastmod>
   </url>
   <url>
-    <loc>http://www.lmxyz.xyz/vmvare-question/</loc>
+    <loc>http://www.lmxyz.xyz/vercel-speed/</loc>
     <lastmod>2022-11-06</lastmod>
   </url>
   <url>
