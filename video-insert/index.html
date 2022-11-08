@@ -22,7 +22,7 @@ gtag('config', 'UA-248545280-2');
   algolia: undefined,
   localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容：${query}"}},
   translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"簡"},
-  noticeOutdate: undefined,
+  noticeOutdate: {"limitDay":500,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated."},
   highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
   copy: {
     success: '复制成功',
@@ -156,12 +156,12 @@ gtag('config', 'UA-248545280-2');
 <li>然后确保你的hexo的配置文件<code>_config.yml</code>里<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">post_asset_folder:</span> <span class="literal">true</span> </span><br></pre></td></tr></table></figure></li>
 <li>把音频文件放到同名文件夹里，然后在文章插入以下语句<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% aplayer &quot;这世界那么多人&quot; &quot;莫文蔚&quot; &quot;1.flac&quot; &quot;music.jpg&quot; %&#125;</span><br></pre></td></tr></table></figure>
 
-        <div id="aplayer-mTFGtyRc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-rQGSoVsq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-mTFGtyRc"),
+            element: document.getElementById("aplayer-rQGSoVsq"),
             narrow: false,
             autoplay: false,
             showlrc: false,
