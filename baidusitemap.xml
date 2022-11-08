@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.lmxyz.xyz/island/</loc>
-    <lastmod>2022-11-07</lastmod>
-  </url>
-  <url>
     <loc>http://www.lmxyz.xyz/openwrt-compile/</loc>
     <lastmod>2022-11-07</lastmod>
   </url>
