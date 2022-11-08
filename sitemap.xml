@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/vmvare-question/</loc>
+    <loc>http://www.lmxyz.xyz/vercel-speed/</loc>
     
     <lastmod>2022-11-06</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/vercel-speed/</loc>
+    <loc>http://www.lmxyz.xyz/vmvare-question/</loc>
     
     <lastmod>2022-11-06</lastmod>
     
@@ -303,14 +303,14 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/WEBP/</loc>
+    <loc>http://www.lmxyz.xyz/tags/markdown/</loc>
     <lastmod>2022-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/markdown/</loc>
+    <loc>http://www.lmxyz.xyz/tags/WEBP/</loc>
     <lastmod>2022-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -345,13 +345,6 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/vmvare/</loc>
-    <lastmod>2022-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.lmxyz.xyz/tags/dplayer/</loc>
     <lastmod>2022-11-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -360,6 +353,13 @@
   
   <url>
     <loc>http://www.lmxyz.xyz/tags/aplayer/</loc>
+    <lastmod>2022-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/vmvare/</loc>
     <lastmod>2022-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
