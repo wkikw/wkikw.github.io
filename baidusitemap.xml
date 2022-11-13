@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.lmxyz.xyz/blog2/</loc>
+    <lastmod>2022-11-13</lastmod>
+  </url>
+  <url>
     <loc>http://www.lmxyz.xyz/blog1/</loc>
     <lastmod>2022-11-12</lastmod>
   </url>
@@ -31,10 +35,6 @@
   <url>
     <loc>http://www.lmxyz.xyz/video-insert/</loc>
     <lastmod>2022-11-10</lastmod>
-  </url>
-  <url>
-    <loc>http://www.lmxyz.xyz/blog2/</loc>
-    <lastmod>2022-11-09</lastmod>
   </url>
   <url>
     <loc>http://www.lmxyz.xyz/openwrt-compile/</loc>
