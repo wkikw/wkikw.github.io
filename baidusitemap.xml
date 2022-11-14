@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.lmxyz.xyz/git-push/</loc>
+    <lastmod>2022-11-14</lastmod>
+  </url>
+  <url>
     <loc>http://www.lmxyz.xyz/search-push/</loc>
     <lastmod>2022-11-13</lastmod>
   </url>
@@ -66,10 +70,6 @@
   </url>
   <url>
     <loc>http://www.lmxyz.xyz/hfweather/</loc>
-    <lastmod>2022-11-06</lastmod>
-  </url>
-  <url>
-    <loc>http://www.lmxyz.xyz/git-push/</loc>
     <lastmod>2022-11-06</lastmod>
   </url>
   <url>
