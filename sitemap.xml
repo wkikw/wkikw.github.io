@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://www.lmxyz.xyz/git-push/</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.lmxyz.xyz/blog1/</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>http://www.lmxyz.xyz/git-q/</loc>
-    
-    <lastmod>2022-11-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lmxyz.xyz/git-push/</loc>
     
     <lastmod>2022-11-14</lastmod>
     
@@ -386,14 +386,14 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/vmvare/</loc>
+    <loc>http://www.lmxyz.xyz/tags/win10/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/win10/</loc>
+    <loc>http://www.lmxyz.xyz/tags/vmvare/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
