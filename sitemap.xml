@@ -372,20 +372,6 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/vmvare/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lmxyz.xyz/tags/win10/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.lmxyz.xyz/tags/dplayer/</loc>
     <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -394,6 +380,20 @@
   
   <url>
     <loc>http://www.lmxyz.xyz/tags/aplayer/</loc>
+    <lastmod>2022-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/vmvare/</loc>
+    <lastmod>2022-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/win10/</loc>
     <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
