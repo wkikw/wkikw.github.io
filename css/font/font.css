@@ -3480,7 +3480,16 @@
 
 /*[119]*/
 
-@font-face {
+
+/* @font-face {
     font-family: 'apple';
     src: url('/font/PingFang Heavy.ttf');
+} */
+
+
+/*[120]*/
+
+@font-face {
+    font-family: 'apple';
+    src: url('/font/pingfangheavy.ttf');
 }
