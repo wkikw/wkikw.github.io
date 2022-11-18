@@ -3493,3 +3493,8 @@
     font-family: 'apple';
     src: url('/font/pingfangheavy.ttf');
 }
+
+@font-face {
+    font-family: 'Apple';
+    src: url('/font/PingFang Bold.ttf');
+}

@@ -11,6 +11,24 @@
   </url>
   
   <url>
+    <loc>http://www.lmxyz.xyz/font-mini/</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/search-push/</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.lmxyz.xyz/blog1/</loc>
     
     <lastmod>2022-11-18</lastmod>
@@ -32,15 +50,6 @@
     <loc>http://www.lmxyz.xyz/cad-start/</loc>
     
     <lastmod>2022-11-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lmxyz.xyz/search-push/</loc>
-    
-    <lastmod>2022-11-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -290,21 +299,14 @@
 
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/hexo/</loc>
-    <lastmod>2022-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lmxyz.xyz/tags/butterfly/</loc>
-    <lastmod>2022-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.lmxyz.xyz/tags/hexo-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/hexo/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -318,7 +320,21 @@
   </url>
   
   <url>
+    <loc>http://www.lmxyz.xyz/tags/butterfly/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.lmxyz.xyz/tags/CAD/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/font/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
