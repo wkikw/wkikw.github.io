@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.lmxyz.xyz/blog2/</loc>
+    <loc>http://www.lmxyz.xyz/font-mini/</loc>
     
     <lastmod>2022-11-18</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/font-mini/</loc>
+    <loc>http://www.lmxyz.xyz/blog2/</loc>
     
     <lastmod>2022-11-18</lastmod>
     
@@ -299,13 +299,6 @@
 
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/hexo-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2022-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.lmxyz.xyz/tags/hexo/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -313,14 +306,21 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/music/</loc>
+    <loc>http://www.lmxyz.xyz/tags/butterfly/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/butterfly/</loc>
+    <loc>http://www.lmxyz.xyz/tags/hexo-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/music/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -355,28 +355,14 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/tags/weather/</loc>
-    <lastmod>2022-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lmxyz.xyz/tags/WEBP/</loc>
-    <lastmod>2022-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lmxyz.xyz/tags/markdown/</loc>
-    <lastmod>2022-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.lmxyz.xyz/tags/openwrt/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/weather/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -391,6 +377,13 @@
   
   <url>
     <loc>http://www.lmxyz.xyz/tags/google/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/WEBP/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -412,6 +405,13 @@
   
   <url>
     <loc>http://www.lmxyz.xyz/tags/aplayer/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/tags/markdown/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -455,13 +455,6 @@
   </url>
   
   <url>
-    <loc>http://www.lmxyz.xyz/categories/markdown/</loc>
-    <lastmod>2022-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.lmxyz.xyz/categories/openwrt/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -477,6 +470,13 @@
   
   <url>
     <loc>http://www.lmxyz.xyz/categories/vercel/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lmxyz.xyz/categories/markdown/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
