@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.lmxyz.xyz/blog2/</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.lmxyz.xyz/blog1/</loc>
     
     <lastmod>2022-11-18</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>http://www.lmxyz.xyz/markdownstart/</loc>
-    
-    <lastmod>2022-11-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lmxyz.xyz/blog2/</loc>
     
     <lastmod>2022-11-16</lastmod>
     
