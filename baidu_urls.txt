@@ -1,3 +1,4 @@
+http://www.lmxyz.xyz/hello-world/
 http://www.lmxyz.xyz/font-mini/
 http://www.lmxyz.xyz/cad-start/
 http://www.lmxyz.xyz/hexo-setup/
@@ -23,4 +24,3 @@ http://www.lmxyz.xyz/blog4/
 http://www.lmxyz.xyz/blog3/
 http://www.lmxyz.xyz/blog2/
 http://www.lmxyz.xyz/blog1/
-http://www.lmxyz.xyz/hello-world/
